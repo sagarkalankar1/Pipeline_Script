@@ -1,4 +1,3 @@
 echo "Building the Project : %date% : %time%"
-echo "Build second part update project"
-echo "hi sagar"
-echo "hi gitesh"
+echo "Build third part update project after adding webhook setting and enabling auto trigger"
+echo "Hiii Akshay"
